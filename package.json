@@ -1,0 +1,19 @@
+{
+  "name": "stayman-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/stayman/boilerplate.git"
+  },
+  "author": "zack@stayman.co",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stayman/boilerplate/issues"
+  },
+  "homepage": "https://github.com/stayman/boilerplate#readme"
+}
